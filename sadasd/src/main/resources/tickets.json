@@ -1,0 +1,82 @@
+[
+  {
+    "carrier": "Aeroflot",
+    "departureCity": "Владивосток",
+    "destinationCity": "Тель-Авив",
+    "departureTime": "2024-07-20T10:00:00",
+    "arrivalTime": "2024-07-20T15:00:00",
+    "price": 350.0
+  },
+  {
+    "carrier": "Aeroflot",
+    "departureCity": "Владивосток",
+    "destinationCity": "Тель-Авив",
+    "departureTime": "2024-07-20T12:32:00",
+    "arrivalTime": "2024-07-20T17:00:00",
+    "price": 450.0
+  },
+  {
+    "carrier": "S7 Airlines",
+    "departureCity": "Владивосток",
+    "destinationCity": "Тель-Авив",
+    "departureTime": "2024-07-21T08:15:00",
+    "arrivalTime": "2024-07-21T13:25:00",
+    "price": 400.0
+  },
+  {
+    "carrier": "S7 Airlines",
+    "departureCity": "Владивосток",
+    "destinationCity": "Тель-Авив",
+    "departureTime": "2024-07-22T09:30:00",
+    "arrivalTime": "2024-07-22T14:45:00",
+    "price": 420.0
+  },
+  {
+    "carrier": "Aeroflot",
+    "departureCity": "Владивосток",
+    "destinationCity": "Тель-Авив",
+    "departureTime": "2024-07-23T11:45:00",
+    "arrivalTime": "2024-07-23T17:00:00",
+    "price": 370.0
+  },
+  {
+    "carrier": "Emirates",
+    "departureCity": "Владивосток",
+    "destinationCity": "Тель-Авив",
+    "departureTime": "2024-07-24T06:10:00",
+    "arrivalTime": "2024-07-24T11:20:00",
+    "price": 600.0
+  },
+  {
+    "carrier": "Emirates",
+    "departureCity": "Владивосток",
+    "destinationCity": "Тель-Авив",
+    "departureTime": "2024-07-25T14:25:00",
+    "arrivalTime": "2024-07-25T19:35:00",
+    "price": 610.0
+  },
+  {
+    "carrier": "Qatar Airways",
+    "departureCity": "Владивосток",
+    "destinationCity": "Тель-Авив",
+    "departureTime": "2024-07-26T16:45:00",
+    "arrivalTime": "2024-07-26T22:00:00",
+    "price": 580.0
+  },
+  {
+    "carrier": "Qatar Airways",
+    "departureCity": "Владивосток",
+    "destinationCity": "Тель-Авив",
+    "departureTime": "2024-07-27T13:00:00",
+    "arrivalTime": "2024-07-27T18:15:00",
+    "price": 590.0
+  },
+  {
+    "carrier": "Aeroflot",
+    "departureCity": "Владивосток",
+    "destinationCity": "Тель-Авив",
+    "departureTime": "2024-07-28T05:30:00",
+    "arrivalTime": "2024-07-28T10:40:00",
+    "price": 380.0
+  }
+]
